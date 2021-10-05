@@ -1,0 +1,18 @@
+#ol {
+list-style-type: lower-alpha;
+font-size: 35px;
+background-color: aquamarine;
+text-align: center;
+}
+
+#ul {
+list-style-type: square;
+font-size: 35px;
+background-color: burlywood;
+text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+    padding: 20px;
+}
